@@ -1,0 +1,7 @@
+#selectores-identificacion select {
+    border: 1px solid black;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+}
+
